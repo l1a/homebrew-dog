@@ -16,8 +16,8 @@
 class Dog < Formula
   desc "Command-line DNS client with colourful output, DoT, DoH and JSON"
   homepage "https://github.com/l1a/dog"
-  url "https://github.com/l1a/dog/archive/refs/tags/v0.7.12.tar.gz"
-  sha256 "c9f7a3a046f9e5862454e5e48ada70aa812a9d82ef16f296e605238b3eab2e34"
+  url "https://github.com/l1a/dog/archive/refs/tags/v0.7.16.tar.gz"
+  sha256 "6d0e05b841756849a5c02799e90aca047398b6e50b5ac382a003a8cf59b30d1a"
   license "GPL-3.0-or-later"
   head "https://github.com/l1a/dog.git", branch: "master"
 
